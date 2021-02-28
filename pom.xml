@@ -135,7 +135,8 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://a03071221@shrek.unideb.hu:2222/home/a03071221/public_html/${project.artifactId}</url>
+			<url>scp://a03071221ls
+				@shrek.unideb.hu:2222/home/a03071221/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 </project>
