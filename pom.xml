@@ -131,7 +131,7 @@
 				<version>3.0.0</version>
 			</plugin>
 		</plugins>
-	</reporting>
+	</reporting
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
